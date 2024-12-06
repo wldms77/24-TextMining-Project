@@ -112,7 +112,7 @@ we can check top keywords appears frequently for each department
 - For example, if "education" is the most frequent keyword, it is important to determine whether the public is advocating for specific types of education or opposing certain educational practices.
 - Thus, further contextual analysis is needed to clarify the meaning behind each keyword, allowing us to better understand the public's demands.
 
-![N-gram.png]("Keyword Department_image/N-gram.png")
+![N-gram.png](Keyword%20Department_image/N-gram.png)
 
 ---
 
