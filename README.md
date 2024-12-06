@@ -68,11 +68,11 @@ Data Content : 2,953 observations / 5 variables: "page_id", "title", "text", "la
 
 ### 범무부
 
-![](Keyword%20Department_image/2.jpeg")
+![](Keyword%20Department_image/2.jpeg)
 
 ### 경찰청
 
-![3.png](Keyword%20Department_image//3.png)
+![3.png](Keyword%20Department_image/3.png)
 
 ### 고용노동부
 
@@ -80,7 +80,7 @@ Data Content : 2,953 observations / 5 variables: "page_id", "title", "text", "la
 
 ### 행정안전부
 
-![5.png](Keyword%20Department_image5.png)
+![5.png](Keyword%20Department_image/5.png)
 
 ### 행정안전부
 
