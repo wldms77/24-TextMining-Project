@@ -63,7 +63,7 @@ Data Content : 2,953 observations / 5 variables: "page_id", "title", "text", "la
 
 ### 보건복지부
 
-![1.png]("Keyword Department_image/1.png")
+![]("Keyword Department_image/1.png")
 
 
 ### 범무부
