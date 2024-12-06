@@ -68,39 +68,39 @@ Data Content : 2,953 observations / 5 variables: "page_id", "title", "text", "la
 
 ### 범무부
 
-![2.jpeg]("Keyword Department_image/2-2.jpeg")
+![](Keyword%20Department_image/2.jpeg")
 
 ### 경찰청
 
-![3.png]("Keyword Department_image//3.png")
+![3.png](Keyword%20Department_image//3.png)
 
 ### 고용노동부
 
-![4.png]("Keyword Department_image/4.png")
+![4.png](Keyword%20Department_image/4.png)
 
 ### 행정안전부
 
-![5.png]("Keyword Department_image//5.png")
+![5.png](Keyword%20Department_image5.png)
 
 ### 행정안전부
 
-![6.png]("Keyword Department_image/6.png")
+![6.png](Keyword%20Department_image/6.png)
 
 ### 교육부
 
-![7.png]("Keyword Department_image/7.png")
+![7.png](Keyword%20Department_image/7.png)
 
 ### 인천광역시
 
-![8.png]("Keyword Department_image//8.png")
+![8.png](Keyword%20Department_image/8.png)
 
 ### 서울특별시
 
-![9.png]("Keyword Department_image/9.png")
+![9.png](Keyword%20Department_image/9.png)
 
 ### 환경부
 
-![10.png]("Keyword Department_image/10.png")
+![10.png](Keyword%20Department_image/10.png)
 
 we can check top keywords appears frequently for each department
 
@@ -122,10 +122,10 @@ we can check top keywords appears frequently for each department
 - The LDA technique was employed, and four methodologies were used to identify the optimal number of topics.
 - Finally, the analysis was performed with five topics.
     
-    ![LDA1.png]("Keyword Department_image/LDA1.png")
+    ![LDA1.png](Keyword%20Department_image/LDA1.png)
     
 
-![LDA2.png]("Keyword Department_image/LDA2.png")
+![LDA2.png](Keyword%20Department_image/LDA2.png)
 
 ---
 
